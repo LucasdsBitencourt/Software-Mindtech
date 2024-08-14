@@ -11,7 +11,7 @@ O projeto inclui um backend em Node.js com um banco de dados SQLite para armazen
 ## Como rodar o projeto
 
 ## 1. Clone o repositório
-git clone https://github.com/seu-usuario/nome-do-repositorio.git
+git clone https://github.com/LucasdsBitencourt/Software-Mindtech.git
 
 ## 2. Instruções 
 
